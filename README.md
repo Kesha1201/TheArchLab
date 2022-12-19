@@ -19,7 +19,7 @@
 # :notebook_with_decorative_cover: Table of Contents
 
 - [About the Project](#star2-about-the-project)
-  * [Description](#dart-features)
+  * [Description](#dart-Description)
   * [Screenshots](#camera-screenshots)
   * [Features](#dart-features)
 - [Getting Started](#toolbox-getting-started)
@@ -33,6 +33,24 @@
 <!-- About the Project -->
 ## :star2: About the Project
 
+<!-- Description -->
+### :dart: Description
+Architectural materials play important role into the process of design. When it comes to new and innovative materials, the professional should know all the details about them. 
+
+In order to find new materials available in the market, architects work with various production and suppling companies. By the time new materials and textures get into the research, architects/ interior designers need to have the knowledge about it.
+![image](https://user-images.githubusercontent.com/102838349/208545276-18f63d18-daa8-4205-9149-6aac39c3f3a2.png)
+<h2> Pain Points</h2>
+First and most important factor for material selection as an architect and working in the field of designing it is always necessary to have knowledge about various materials and techniques available in the market. 
+
+To gather information about vernacular materials and products for construction, designers usually go out in the market and do research on them.
+Pain point in the entire process is to go on site and try these materials every time with having less knowledge about them will makes the process slow and tiring.
+![image](https://user-images.githubusercontent.com/102838349/208545498-037babec-1359-4296-bc55-822b95b33f40.png)
+
+<h2> Goal of the Study</h2>
+In order to do research about materials and how they will look on actual site, a product with a vision of textures and multiple options for finishing materials which looks real will help the designers to solve the problem of selections and making right decision in time. 
+
+The product should have enough materials according to the real-world designs and actual materials properties with some effects in order to make the selection process easy.
+![image](https://user-images.githubusercontent.com/102838349/208545613-226b4ebc-caa1-43a8-a7d1-5980852ddb44.png)
 
 <!-- Screenshots -->
 ### :camera: Screenshots
@@ -40,71 +58,22 @@
 <div align="center"> 
   <img src="assets/image2.jpeg" alt="logo" width="600" height="400" />
   
-  <img src="assets/image3.jpeg" alt="logo" width="600" height="400" />
+  <img src="assets/image3.jpg" alt="texture" width="600" height="900" />
   
+  <img src="assets/image4.jpg" alt="texture" width="600" height="900" />
 </div>
 
-
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://www.typescriptlang.org/">Typescript</a></li>
-    <li><a href="https://nextjs.org/">Next.js</a></li>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-    <li><a href="https://tailwindcss.com/">TailwindCSS</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://www.typescriptlang.org/">Typescript</a></li>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-    <li><a href="https://go.dev/">Golang</a></li>
-    <li><a href="https://nestjs.com/">Nest.js</a></li>
-    <li><a href="https://socket.io/">SocketIO</a></li>
-    <li><a href="https://www.prisma.io/">Prisma</a></li>    
-    <li><a href="https://www.apollographql.com/">Apollo</a></li>
-    <li><a href="https://graphql.org/">GraphQL</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.mysql.com/">MySQL</a></li>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-    <li><a href="https://redis.io/">Redis</a></li>
-    <li><a href="https://neo4j.com/">Neo4j</a></li>
-    <li><a href="https://www.mongodb.com/">MongoDB</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>DevOps</summary>
-  <ul>
-    <li><a href="https://www.docker.com/">Docker</a></li>
-    <li><a href="https://www.jenkins.io/">Jenkins</a></li>
-    <li><a href="https://circleci.com/">CircleCLI</a></li>
-  </ul>
-</details>
 
 <!-- Features -->
 ### :dart: Features
 
-- Feature 1
-- Feature 2
-- Feature 3
+- Feature 1: 
+When the Live material will be scanned by the app, it will show the detailed information about exsisitng materials in the market.
+- Feature 2:
+By looking the material library you can also see the application methods and how to preserve it for long time use.
+- Feature 3:
+In the app you can also look for the vendor details and the companies which manufactures the materials and textures.
 
-<!-- Color Reference -->
-### :art: Color Reference
-
-| Color             | Hex                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| Primary Color | ![#222831](https://via.placeholder.com/10/222831?text=+) #222831 |
-| Secondary Color | ![#393E46](https://via.placeholder.com/10/393E46?text=+) #393E46 |
-| Accent Color | ![#00ADB5](https://via.placeholder.com/10/00ADB5?text=+) #00ADB5 |
-| Text Color | ![#EEEEEE](https://via.placeholder.com/10/EEEEEE?text=+) #EEEEEE |
 
 
 <!-- Env Variables -->
@@ -118,7 +87,9 @@ To run this project, you will need to add the following environment variables to
 
 <!-- Getting Started -->
 ## 	:toolbox: Getting Started
-
+ To getting started with the Unity hub i created thge base tamplate for AR Core and made it useful for the ios version.
+ After selecting appropriate options for playes settings and getting the AR Core packages into the Unity scene i created the base material which can be scanned and replaced with the detailed options available in the market.
+ 
 <!-- Prerequisites -->
 ### :bangbang: Prerequisites
 
@@ -138,125 +109,12 @@ Install my-project with npm
   cd my-project
 ```
    
-<!-- Running Tests -->
-### :test_tube: Running Tests
 
-To run tests, run the following command
-
-```bash
-  yarn test test
-```
-
-<!-- Run Locally -->
-### :running: Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/Louis3797/awesome-readme-template.git
-```
-
-Go to the project directory
-
-```bash
-  cd my-project
-```
-
-Install dependencies
-
-```bash
-  yarn install
-```
-
-Start the server
-
-```bash
-  yarn start
-```
-
-
-<!-- Deployment -->
-### :triangular_flag_on_post: Deployment
-
-To deploy this project run
-
-```bash
-  yarn deploy
-```
-
-
-<!-- Usage -->
-## :eyes: Usage
-
-Use this space to tell a little more about your project and how it can be used. Show additional screenshots, code samples, demos or link to other resources.
-
-
-```javascript
-import Component from 'my-project'
-
-function App() {
-  return <Component />
-}
-```
-
-<!-- Roadmap -->
-## :compass: Roadmap
-
-* [x] Todo 1
-* [ ] Todo 2
-
-
-<!-- Contributing -->
-## :wave: Contributing
-
-<a href="https://github.com/Louis3797/awesome-readme-template/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Louis3797/awesome-readme-template" />
-</a>
-
-
-Contributions are always welcome!
-
-See `contributing.md` for ways to get started.
-
-
-<!-- Code of Conduct -->
-### :scroll: Code of Conduct
-
-Please read the [Code of Conduct](https://github.com/Louis3797/awesome-readme-template/blob/master/CODE_OF_CONDUCT.md)
-
-<!-- FAQ -->
-## :grey_question: FAQ
-
-- Question 1
-
-  + Answer 1
-
-- Question 2
-
-  + Answer 2
-
-
-<!-- License -->
-## :warning: License
-
-Distributed under the no License. See LICENSE.txt for more information.
-
-
-<!-- Contact -->
-## :handshake: Contact
-
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
-
-Project Link: [https://github.com/Louis3797/awesome-readme-template](https://github.com/Louis3797/awesome-readme-template)
 
 
 <!-- Acknowledgments -->
 ## :gem: Acknowledgements
 
-Use this section to mention useful resources and libraries that you have used in your projects.
 
- - [Shields.io](https://shields.io/)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#travel--places)
- - [Readme Template](https://github.com/othneildrew/Best-README-Template)
+ 
 
