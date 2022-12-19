@@ -87,8 +87,18 @@ To run this project, you will need to add the following environment variables to
 
 <!-- Getting Started -->
 ## 	:toolbox: Getting Started
- To getting started with the Unity hub i created thge base tamplate for AR Core and made it useful for the ios version.
- After selecting appropriate options for playes settings and getting the AR Core packages into the Unity scene i created the base material which can be scanned and replaced with the detailed options available in the market.
+  To getting started with the Unity hub i created the base tamplate for AR Core and made it useful for the ios version.
+  After selecting appropriate options for playes settings and getting the AR Core packages into the Unity scene i created the base material which can be     scanned and replaced with the detailed options available in the market.
+  
+  The Version for Unity Hub : 2021.3.15f1 
+  
+  Project type: AR Core
+  
+  Assests used from: Unity Asset Store
+  
+  X-code: Version 14.2 (14C18)
+  
+  Lens-Studio: AR Marker Template 
  
 <!-- Prerequisites -->
 ### :bangbang: Prerequisites
