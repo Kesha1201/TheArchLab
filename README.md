@@ -5,7 +5,7 @@
   <h1>The Arch Lab</h1>
   
   <p>
-    Digital Library For all available textures in the market.
+    Digital Library For all architectural textures available in the market.
   </p>
   
   
@@ -19,25 +19,14 @@
 # :notebook_with_decorative_cover: Table of Contents
 
 - [About the Project](#star2-about-the-project)
+  * [Description](#dart-features)
   * [Screenshots](#camera-screenshots)
-  * [Tech Stack](#space_invader-tech-stack)
   * [Features](#dart-features)
-  * [Color Reference](#art-color-reference)
-  * [Environment Variables](#key-environment-variables)
 - [Getting Started](#toolbox-getting-started)
   * [Prerequisites](#bangbang-prerequisites)
   * [Installation](#gear-installation)
-  * [Running Tests](#test_tube-running-tests)
-  * [Run Locally](#running-run-locally)
-  * [Deployment](#triangular_flag_on_post-deployment)
 - [Usage](#eyes-usage)
-- [Roadmap](#compass-roadmap)
-- [Contributing](#wave-contributing)
-  * [Code of Conduct](#scroll-code-of-conduct)
-- [FAQ](#grey_question-faq)
-- [License](#warning-license)
-- [Contact](#handshake-contact)
-- [Acknowledgements](#gem-acknowledgements)
+
 
   
 
@@ -50,11 +39,11 @@
 
 <div align="center"> 
   <img src="assets/image2.jpeg" alt="logo" width="600" height="400" />
+  
+  <img src="assets/image3.jpeg" alt="logo" width="600" height="400" />
+  
 </div>
 
-
-<!-- TechStack -->
-### :space_invader: Tech Stack
 
 <details>
   <summary>Client</summary>
