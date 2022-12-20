@@ -162,8 +162,6 @@ Import AR Foundation packages from Package Manager
 <!-- Installation -->
 ### :gear: Installation
 
-Install my-project with npm
-
 ```bash
   Make AR Session Origin as your base and add the texture which needs to be scan.
 ```
@@ -177,8 +175,9 @@ It can also be Created into Lens Studio under Maker Image Target Settings.
 ```
 
 <!-- Scan the Code here to try out the texture scan filter -->
-## :gem: Acknowledgements
+## :gem: Scan the Code here to try out the texture scan filter
 
+Lens ID: 6d1f9f1b-5c45-4284-92ab-bc1debf03a6e
 
  
 
