@@ -23,7 +23,7 @@
   * [Screenshots](#camera-screenshots)
   * [Features](#dart-features)
 - [Getting Started](#toolbox-getting-started)
-  * [Prerequisites](#bangbang-prerequisites)
+  * [Make Your Own Image Tracking App](#bangbang-prerequisites)
   * [Installation](#gear-installation)
 - [Usage](#eyes-usage)
 
@@ -37,21 +37,56 @@
 ### :dart: Description
 Architectural materials play important role into the process of design. When it comes to new and innovative materials, the professional should know all the details about them. 
 
-In order to find new materials available in the market, architects work with various production and suppling companies. By the time new materials and textures get into the research, architects/ interior designers need to have the knowledge about it.
+In order to find new materials available in the market, architects work with various production and suppling companies.
+
+By the time new materials and textures get into the research, architects/ interior designers need to have the knowledge about it.
+
 ![image](https://user-images.githubusercontent.com/102838349/208545276-18f63d18-daa8-4205-9149-6aac39c3f3a2.png)
+
 <h2> Pain Points</h2>
+
 First and most important factor for material selection as an architect and working in the field of designing it is always necessary to have knowledge about various materials and techniques available in the market. 
 
-To gather information about vernacular materials and products for construction, designers usually go out in the market and do research on them.
+To gather information about vernacular materials and products for construction, designers usually go out in the market and do research on them.
+
+
 Pain point in the entire process is to go on site and try these materials every time with having less knowledge about them will makes the process slow and tiring.
+
 ![image](https://user-images.githubusercontent.com/102838349/208545498-037babec-1359-4296-bc55-822b95b33f40.png)
 
 <h2> Goal of the Study</h2>
 In order to do research about materials and how they will look on actual site, a product with a vision of textures and multiple options for finishing materials which looks real will help the designers to solve the problem of selections and making right decision in time. 
 
+
 The product should have enough materials according to the real-world designs and actual materials properties with some effects in order to make the selection process easy.
+
 ![image](https://user-images.githubusercontent.com/102838349/208545613-226b4ebc-caa1-43a8-a7d1-5980852ddb44.png)
 
+<h2> Interview Subjects</h2>
+
+Architects
+
+Interior designers
+
+On-site executioners
+
+Raw material manufactures
+
+Furnishing companies
+
+Material vendors
+
+<h2> Insights from Interviews</h2>
+
+Professionals like architects and interior designers do their research every time they use any new material available from manufactures.
+
+Manufactures from various areas provide their product flyers and sample products to be installed on the site for comparison perspective.
+
+They both would like to connect through a single product in which they can both put their thoughts and gain knowledge about new materials available in the market.
+
+Architects emphasize on having real looking products and their details so that they do not have to put them on site every single time.
+
+![image](https://user-images.githubusercontent.com/102838349/208551524-785f9f9f-c762-4534-94a8-9ea2eddcbacf.png)
 <!-- Screenshots -->
 ### :camera: Screenshots
 
@@ -100,10 +135,12 @@ To run this project, you will need to add the following environment variables to
   
   Lens-Studio: AR Marker Template 
  
-<!-- Prerequisites -->
+<!-- Make Your Own Image Tracking App -->
 ### :bangbang: Prerequisites
 
-This project uses Yarn as package manager
+This project uses Unity Hub as a AR Core template.
+
+Steps to Make the AR Image Tracking Project.
 
 ```bash
  npm install --global yarn
