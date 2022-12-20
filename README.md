@@ -6,6 +6,9 @@
   
   <p>
     Digital Library For all architectural textures available in the market.
+   
+    Arch Lab is the app which scans on site textures and materials and gives you the available options in the market.
+
   </p>
   
   
@@ -24,8 +27,8 @@
   * [Features](#dart-features)
 - [Getting Started](#toolbox-getting-started)
   * [Make Your Own Image Tracking App](#bangbang-prerequisites)
-  * [Installation](#gear-installation)
-- [Usage](#eyes-usage)
+  * [Scan the Code here to try out the texture scan filter](#gear-installation)
+
 
 
   
@@ -52,7 +55,7 @@ To gather information about vernacular materials and products for construction, 
 
 Pain point in the entire process is to go on site and try these materials every time with having less knowledge about them will makes the process slow and tiring.
 
-![image](https://user-images.githubusercontent.com/102838349/208545498-037babec-1359-4296-bc55-822b95b33f40.png)
+
 
 <h2> Goal of the Study</h2>
 In order to do research about materials and how they will look on actual site, a product with a vision of textures and multiple options for finishing materials which looks real will help the designers to solve the problem of selections and making right decision in time. 
@@ -60,7 +63,6 @@ In order to do research about materials and how they will look on actual site, a
 
 The product should have enough materials according to the real-world designs and actual materials properties with some effects in order to make the selection process easy.
 
-![image](https://user-images.githubusercontent.com/102838349/208545613-226b4ebc-caa1-43a8-a7d1-5980852ddb44.png)
 
 <h2> Interview Subjects</h2>
 
@@ -86,7 +88,6 @@ They both would like to connect through a single product in which they can both 
 
 Architects emphasize on having real looking products and their details so that they do not have to put them on site every single time.
 
-![image](https://user-images.githubusercontent.com/102838349/208551524-785f9f9f-c762-4534-94a8-9ea2eddcbacf.png)
 <!-- Screenshots -->
 ### :camera: Screenshots
 
@@ -143,7 +144,19 @@ This project uses Unity Hub as a AR Core template.
 Steps to Make the AR Image Tracking Project.
 
 ```bash
- npm install --global yarn
+Create New Project with AR Core
+```
+
+```bash
+Open Player Settings and Install XR Plugin Management 
+```
+
+```bash
+Select ARKit Plugin
+```
+
+```bash
+Import AR Foundation packages from Package Manager
 ```
 
 <!-- Installation -->
@@ -152,14 +165,18 @@ Steps to Make the AR Image Tracking Project.
 Install my-project with npm
 
 ```bash
-  yarn install my-project
-  cd my-project
+  Make AR Session Origin as your base and add the texture which needs to be scan.
 ```
-   
+ 
+```bash
+ Put the replaced object and build the scene to X-Code
+```
 
+```bash
+It can also be Created into Lens Studio under Maker Image Target Settings.
+```
 
-
-<!-- Acknowledgments -->
+<!-- Scan the Code here to try out the texture scan filter -->
 ## :gem: Acknowledgements
 
 
